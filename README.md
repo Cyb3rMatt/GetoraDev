@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew
 ===============================================================================================================================
 
-<p align = "center"Full Stack Web Developer
-------------------------</p>
+<p align ="center"Full Stack Web Developer</p>
+------------------------
 
 ## 🚀 About Me
 • Undergraduate Student pursuing a BS degree in Computer Science with a keen interest in Cyber Security and Software Development.
