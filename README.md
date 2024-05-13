@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 ## 🚀 About Me
-• I'm a Undergraduate Student pursuing a BS degree in Computer Science with a keen interest in Cyber Security and Software Development.
+• Undergraduate Student pursuing a BS degree in Computer Science with a keen interest in Cyber Security and Software Development.
 
 ### Skills
 
