@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-• Pursuing a BS degree in Computer Science.
+## 🚀 About Me
+• I'm a Undergraduate Student pursuing a BS degree in Computer Science with a keen interest in Cyber Security and Software Development.
 
 ### Skills
 
